@@ -9,17 +9,6 @@
 * This Document assumes that the reader has installed *Ubuntu 20.04*. However, if you haven't install *Ubuntu 20.04* yet make sure to install it before proceeding.
 * You can download *Ubuntu 20.04* ISO file from [here](https://releases.ubuntu.com/20.04/).
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
-
-![screenshot]()
-
 # Environment Setup
 Follow the following steps to install ROS1, Gazebo and PX4 Firmware, that collectively form the whole environment.
 
@@ -174,3 +163,6 @@ chmod +x ./QGroundControl.AppImage
 ```
 # Learning Resources
 * We highly recommend you to go through [px4 official documentation](https://docs.px4.io/v1.12/en/development/development.html) and for mavros go through [mavros px4 documentation](https://docs.px4.io/master/en/ros/ros1.html) as the learning curve might be steap in the start.
+
+## Authors
+* [Kamlesh Kumar](https://github.com/kamlesh364)
