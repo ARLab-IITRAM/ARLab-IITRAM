@@ -98,7 +98,7 @@ wstool init src
 ```
 2. Install MAVLink: we use the Kinetic reference for all ROS distros as it’s not distro-specific and up to date
 ```bash
-rosinstall_generator --rosdistro kinetic mavlink | tee /tmp/mavros.rosinstall
+rosinstall_generator --rosdistro noetic mavlink | tee /tmp/mavros.rosinstall
 ```
 3. Install MAVROS: get spurce (upstream - released)
 ```bash
