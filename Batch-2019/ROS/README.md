@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://wiki.ros.org/"><img src="http://wiki.ros.org/custom/images/ros_org.png" alt="ROS" width="300"></a>
-  <a href="http://gazebosim.org/"><img src="http://gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" alt="Gazebo" width="100"></a>
+  <a href="https://gazebosim.org/home"><img src="http://gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" alt="Gazebo" width="100"></a>
   <a href="https://px4.io/"><img src="https://px4.io/wp-content/uploads/2020/03/PX4_logo_black_large_resized_compressed-compressor.png" alt="PX4" width="200"></a>
 </h1>
 
