@@ -6,7 +6,7 @@
 
 <h1>ROS+Gazebo+PX4 Installation Instructions</h1>
 
-* This Document assumes that the reader has installed *Ubuntu 20.04*. However, if you haven't install *Ubuntu 20.04* yet make sure to install it before proceeding.
+* This Document assumes that the reader has installed *Ubuntu 20.04*. However, if you haven't install *Ubuntu 20.04*, make sure to install it before proceeding.
 * You can download *Ubuntu 20.04* ISO file from [here](https://releases.ubuntu.com/20.04/).
 
 # Environment Setup
