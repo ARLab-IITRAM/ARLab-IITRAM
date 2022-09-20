@@ -65,7 +65,7 @@ sudo apt update
 ```
 5. Installing the ROS recommended configuration.
 ```bash
-sudo apt install ros-noetic-destop-full
+sudo apt install ros-noetic-desktop-full
 ```
 6. Environment Setup
 ```bash
