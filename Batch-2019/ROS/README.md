@@ -162,7 +162,7 @@ chmod +x ./QGroundControl.AppImage
 ./QGroundControl.AppImage  # (or double click)
 ```
 # Learning Resources
-* We highly recommend you to go through [px4 official documentation](https://docs.px4.io/v1.12/en/development/development.html) and for mavros go through [mavros px4 documentation](https://docs.px4.io/master/en/ros/ros1.html) as the learning curve might be steap in the start.
+* We highly recommend you to go through [px4 official documentation](https://docs.px4.io/v1.12/en/development/development.html) and [mavros px4 documentation](https://docs.px4.io/master/en/ros/ros1.html) as the learning curve might be steap in the start.
 
 ## Authors
 * [Kamlesh Kumar](https://github.com/kamlesh364)
