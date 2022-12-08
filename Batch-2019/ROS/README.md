@@ -164,5 +164,7 @@ chmod +x ./QGroundControl.AppImage
 # Learning Resources
 * We highly recommend you to go through [px4 official documentation](https://docs.px4.io/v1.12/en/development/development.html) and [mavros px4 documentation](https://docs.px4.io/master/en/ros/ros1.html) as the learning curve might be steap in the start.
 
+* For Remote Programming on Pluto Drone, please refer to [Pluto README.md](https://github.com/ARLab-IITRAM/ARLab-IITRAM/tree/main/Batch-2019/ROS/Pluto1.2)
+
 ## Authors
 * [Kamlesh Kumar](https://github.com/kamlesh364)
